@@ -22,7 +22,7 @@ my %WriteMakefileArgs = (
   "PREREQ_PM" => {
     "Module::Install" => "1.10"
   },
-  "VERSION" => "0.20",
+  "VERSION" => "0.21",
   "test" => {
     "TESTS" => "t/*.t"
   }
