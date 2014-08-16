@@ -1,3 +1,7 @@
+0.19 Fri Aug 15 16:05:53 PDT 2014
+ - Add t/000-compile-modules.t
+ - CPAN Day 2014 - 21 Release Salute!
+
 0.18 Wed Aug 13 22:42:44 PDT 2014
  - Fix Meta
 
